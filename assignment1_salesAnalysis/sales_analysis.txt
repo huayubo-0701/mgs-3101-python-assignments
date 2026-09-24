@@ -1,1 +1,16 @@
 Sales Analysis
+
+Understanding the Data
+The dataset contains coffee shop sales information such as transaction quantity, unit price, product category, and product detail. For this analysis, I focused on the Lower Manhattan store and selected Latte as the drink product and Chocolate Croissant as the pastry product.
+A total of 1,541 Lattes were sold at $3.75 each, generating $5,778.75 in revenue. A total of 1,031 Chocolate Croissants were sold at $3.75 each, generating $3,866.25 in revenue. Latte sales were 510 units higher and generated $1,912.50 more revenue.
+
+Recommendations
+Recommendation 1:
+The store should maintain enough Latte ingredients because Latte had higher sales. The store sold 1,541 Lattes compared with 1,031 Chocolate Croissants.
+Recommendation 2:
+The store could promote Chocolate Croissants together with Lattes as a bundle. Since pastry sales were lower, pairing the two products may encourage more customers to purchase a pastry.
+Recommendation 3:
+The store should continue to monitor Latte sales because Latte generated $5,778.75 in revenue, which was $1,912.50 more than Chocolate Croissant revenue.
+
+Questions
+I would like to know whether the same sales pattern appears at the other coffee shop locations and whether sales change depending on the day or time.
