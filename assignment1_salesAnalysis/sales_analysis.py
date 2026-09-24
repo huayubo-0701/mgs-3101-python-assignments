@@ -9,9 +9,10 @@ total_revenue = drink_revenue + pastry_revenue
 sales_difference = number_of_drinks_sold - number_of_pastries_sold
 revenue_difference = drink_revenue - pastry_revenue
 
-with open("sales_analysis.txt", "r") as file:
-    written_analysis = file.read()
-    print(written_analysis)
+file = open("sales_analysis.txt", "r")
+written_analysis = file.read()
+print(written_analysis)
+file.close()
 
 if total_revenue >= 500:
     print("Total revenue is at least $500.")
